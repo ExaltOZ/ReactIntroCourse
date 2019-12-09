@@ -1,0 +1,17 @@
+.color-cycler-button{
+    border-radius: 5px;
+    padding: 8px;
+    border: 3px;
+    font-size: 1.5em;
+    text-align: center;
+    transition-duration: 0.5s;
+    display: inline-flex;
+
+    .random-icon{
+        height: 100%;
+        max-width: 60%;
+        vertical-align: middle;
+        transition-duration: 0.5s;
+        padding: 5px;
+    }
+}
